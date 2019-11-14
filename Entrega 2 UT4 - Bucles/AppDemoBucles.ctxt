@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AppDemoBucles
+comment0.text=\r\n\ \ @author\ -\ \r\n\ \ \r\n\ Incluye\ todo\ el\ c\u00F3digo\ dentro\ del\ main()\r\n\ No\ declares\ ning\u00FAn\ nuevo\ m\u00E9todo\ en\ esta\ clase\ ni\ atributos\r\n\ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ Punto\ de\ entrada\ a\ la\ aplicaci\u00F3n.\ Dentro\ del\ main\:\r\n\ \ -\ define\ y\ crea\ el\ teclado\ \ \r\n\ \ -\ define\ e\ instancia\ un\ objeto\ DemoBucles\r\n\ \ -\ pide\ la\ cantidad\ tope\ \ m\u00E1xima\ de\ aleatorios\ a\ generar\r\n\ \ -\ valida\ que\ ese\ tope\ est\u00E9\ entre\ 10\ y\ 15\r\n\ \ -\ muestra\ los\ n\u00FAmeros\ generados\ como\ suma\ de\ potencias\ de\ 2\r\n\ \ \r\n\ \ -\ haz\ una\ pausa\ y\ borra\ la\ pantalla\ \r\n\ \ \r\n\ \ -\ muestra\ la\ figura\ para\ 6\ escalones\ de\ alto\ \=\ 4\ y\ ancho\ \=\ 12\r\n\ \ \r\n\ \ \r\n
+numComments=2
